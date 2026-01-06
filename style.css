@@ -65,7 +65,7 @@ body {
     padding: 0 10%;
     background: 
         linear-gradient(to right, #081b29 45%, rgba(8,27,41,0.4)),
-        url('images/home.png') no-repeat right center;
+        url('image/home.png') no-repeat right center;
     background-size: auto 100%;
 }
 
@@ -303,4 +303,5 @@ body {
     100% {
         pointer-events: auto;
     }
+
 }
